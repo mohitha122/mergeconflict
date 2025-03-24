@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 vvvvvvvvvvvvv
 bbb
 nnnnnn
+=======
+merge conflict
+
+>>>>>>> fbbb
